@@ -3,10 +3,10 @@ A simple Python chatbot for CodeAlpha internship. It replies to basic inputs, ha
 
 ## Features
 
-  --> Recognizes inputs like "hello", "how are you?", and "bye!"
-  --> Allows exiting the chat by typing "exit" or "bye!"
-  --> Handles unknown inputs with an option to continue or quit
-  --> Demonstrates basic programming concepts: conditionals, loops, and user input handling
+* Recognizes inputs like "hello", "how are you?", and "bye!"
+* Allows exiting the chat by typing "exit" or "bye!"
+* Handles unknown inputs with an option to continue or quit
+* Demonstrates basic programming concepts: conditionals, loops, and user input handling
 
 ### Prerequisites
 
